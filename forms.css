@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-image: url("galaxy.jpg");
-	background-color: transparent;
+	height: auto;
 }
 .wrapper {
 	width: 80%;
