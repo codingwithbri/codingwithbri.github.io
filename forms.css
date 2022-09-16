@@ -92,4 +92,5 @@ input:not([type="radio"]):not([type="checkbox"]), textarea, select {
 
 h1,legend, h3 {
 	font-family: 'Roboto Slab', serif;
+	margin-top: 0;
 }
