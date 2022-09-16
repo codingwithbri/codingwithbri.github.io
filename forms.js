@@ -99,4 +99,3 @@ function sendData() {
   // Finally, send our data.
   XHR.send(urlEncodedData);
 }
-
